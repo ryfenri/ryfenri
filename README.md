@@ -36,7 +36,7 @@
         <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/c.png" alt="C site link" width="50" height="50">
       </a>
       <a href="https://www.rust-lang.org/">
-        <img src="https://skillicons.dev/icons?i=rust alt="C site link" width="50" height="50">
+        <img src="https://skillicons.dev/icons?i=rust" alt="Rust site link" width="50" height="50">
       </a>
       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/terminal.png" alt="bash link site" width="50" height="50">
@@ -76,4 +76,5 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=ryfenri&show_icons=true&theme=dracula&count_private=true" alt="Github Estatisticas" />
 </div>
+
 
